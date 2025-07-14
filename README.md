@@ -2,6 +2,31 @@
 
 Ein kinderfreundlicher Lernassistent mit Spaced Repetition System, der Reinforcement Learning verwendet, um sich an den individuellen Lernfortschritt anzupassen.
 
+## 📸 Screenshots
+
+<table>
+<tr>
+<td width="50%">
+<img src="images/upload.png" alt="Upload Interface" />
+<p align="center"><strong>Upload & Import</strong></p>
+</td>
+<td width="50%">
+<img src="images/session.png" alt="Lern-Session" />
+<p align="center"><strong>Lern-Session</strong></p>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<img src="images/spaced.png" alt="Spaced Repetition" />
+<p align="center"><strong>Spaced Repetition</strong></p>
+</td>
+<td width="50%">
+<img src="images/help.png" alt="Hilfe" />
+<p align="center"><strong>Hilfe & Anleitung</strong></p>
+</td>
+</tr>
+</table>
+
 ## 🎯 Kernkonzept
 
 Dieser Lernagent implementiert ein universelles Framework für verschiedene Lernszenarien. Das System:
@@ -90,16 +115,22 @@ docker-compose --profile gpu up -d
 
 ## 🎮 Web-Interface Funktionen
 
+![Learning Agent Upload Interface](images/upload.png)
+
 ### 1. Upload & Import
 - **Datei-Upload**: CSV, JSON, XML, Excel-Dateien
 - **Format-Anleitung**: Integrierte Hilfe für korrekte Dateiformate
 - **Automatisches Training**: System wird nach Upload automatisch vorbereitet
 - **Beispiel-Szenarien**: Vorgefertigte Lernsets zum Ausprobieren
 
+![Szenario Auswahl](images/szenario.png)
+
 ### 2. Szenario-Auswahl
 - Anzeige aller verfügbaren Lernszenarien
 - Detaillierte Informationen zu jedem Szenario
 - Einfache Auswahl für sofortigen Start
+
+![Lern-Session](images/session.png)
 
 ### 3. Lern-Session
 - Interaktive Lernsessions mit Frage-Antwort-System
@@ -107,11 +138,15 @@ docker-compose --profile gpu up -d
 - Fortschrittsverfolgung und Statistiken
 - Anti-Cheat-System für ehrliches Lernen
 
+![Spaced Repetition](images/spaced.png)
+
 ### 4. Spaced Repetition
 - **SM-2 Algorithmus**: Wissenschaftlich bewährtes Wiederholungssystem
 - **Intelligente Terminierung**: Karten werden optimal zeitlich verteilt
 - **Qualitätsbewertung**: 6-stufiges Bewertungssystem (0-5)
 - **Fortschrittsanzeige**: Klare Rückmeldung über Wiederholungsintervalle
+
+![Hilfe und Anleitung](images/help.png)
 
 ### 5. Hilfe & Anleitung
 - **Erste Schritte**: Schritt-für-Schritt Anleitung
