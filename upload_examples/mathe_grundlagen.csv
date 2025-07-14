@@ -1,0 +1,11 @@
+question,answer,difficulty,category,task_type,hints
+"Was ist 2 + 2?","4","1","Grundrechenarten","free_text","Addition;Kleine Zahlen"
+"Was ist 5 * 3?","15","1","Grundrechenarten","free_text","Multiplikation;Einmaleins"
+"Was ist 10 - 4?","6","1","Grundrechenarten","free_text","Subtraktion;Differenz"
+"Was ist 12 / 3?","4","1","Grundrechenarten","free_text","Division;Teilen"
+"Was ist 7 + 8?","15","2","Grundrechenarten","free_text","Addition;Größere Zahlen"
+"Was ist 6 * 7?","42","2","Grundrechenarten","free_text","Multiplikation;Einmaleins"
+"Was ist 25 - 13?","12","2","Grundrechenarten","free_text","Subtraktion;Zweistellig"
+"Was ist 36 / 6?","6","2","Grundrechenarten","free_text","Division;Größere Zahlen"
+"Löse: 3x + 5 = 14","x = 3","3","Algebra","free_text","Gleichung;Variable isolieren"
+"Was ist x² wenn x = 4?","16","3","Algebra","free_text","Quadrieren;Potenz"

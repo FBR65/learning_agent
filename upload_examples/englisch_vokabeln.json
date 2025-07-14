@@ -1,0 +1,80 @@
+{
+  "name": "englisch_vokabeln",
+  "description": "Englische Grundvokabeln für Anfänger",
+  "version": "1.0", 
+  "categories": ["Tiere", "Farben", "Familie", "Haus"],
+  "tasks": [
+    {
+      "id": "eng_001",
+      "question": "Wie heißt 'Hund' auf Englisch?",
+      "answer": "dog",
+      "task_type": "translation",
+      "difficulty": 1,
+      "category": "Tiere",
+      "hints": ["Haustier", "bellt"]
+    },
+    {
+      "id": "eng_002", 
+      "question": "Wie heißt 'Katze' auf Englisch?",
+      "answer": "cat",
+      "task_type": "translation",
+      "difficulty": 1,
+      "category": "Tiere",
+      "hints": ["Haustier", "miaut"]
+    },
+    {
+      "id": "eng_003",
+      "question": "Wie heißt 'rot' auf Englisch?",
+      "answer": "red",
+      "task_type": "translation", 
+      "difficulty": 1,
+      "category": "Farben",
+      "hints": ["Farbe von Blut", "Ampelfarbe"]
+    },
+    {
+      "id": "eng_004",
+      "question": "Wie heißt 'blau' auf Englisch?",
+      "answer": "blue",
+      "task_type": "translation",
+      "difficulty": 1, 
+      "category": "Farben",
+      "hints": ["Farbe des Himmels", "Primärfarbe"]
+    },
+    {
+      "id": "eng_005",
+      "question": "Wie heißt 'Mutter' auf Englisch?",
+      "answer": "mother",
+      "task_type": "translation",
+      "difficulty": 1,
+      "category": "Familie", 
+      "hints": ["Elternteil", "weiblich"]
+    },
+    {
+      "id": "eng_006",
+      "question": "Wie heißt 'Vater' auf Englisch?",
+      "answer": "father", 
+      "task_type": "translation",
+      "difficulty": 1,
+      "category": "Familie",
+      "hints": ["Elternteil", "männlich"]
+    },
+    {
+      "id": "eng_007",
+      "question": "Wie heißt 'Küche' auf Englisch?",
+      "answer": "kitchen",
+      "task_type": "translation",
+      "difficulty": 2,
+      "category": "Haus",
+      "hints": ["Raum zum Kochen", "Herd und Kühlschrank"]
+    },
+    {
+      "id": "eng_008",
+      "question": "Wie heißt 'Schlafzimmer' auf Englisch?",
+      "answer": "bedroom", 
+      "task_type": "translation",
+      "difficulty": 2,
+      "category": "Haus",
+      "hints": ["Raum zum Schlafen", "Bett steht dort"]
+    }
+  ]
+}

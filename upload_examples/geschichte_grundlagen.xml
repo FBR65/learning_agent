@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scenario>
+  <name>geschichte_grundlagen</name>
+  <description>Deutsche Geschichte für Schüler</description>
+  <version>1.0</version>
+  <categories>
+    <category>Mittelalter</category>
+    <category>Neuzeit</category>
+    <category>20. Jahrhundert</category>
+  </categories>
+  <tasks>
+    <task>
+      <id>hist_001</id>
+      <question>In welchem Jahr begann das Mittelalter ungefähr?</question>
+      <answer>500</answer>
+      <task_type>free_text</task_type>
+      <difficulty>2</difficulty>
+      <category>Mittelalter</category>
+      <hints>
+        <hint>Nach dem Untergang Roms</hint>
+        <hint>Etwa 5. Jahrhundert</hint>
+      </hints>
+    </task>
+    <task>
+      <id>hist_002</id>
+      <question>Wer war Karl der Große?</question>
+      <answer>Fränkischer König und Kaiser</answer>
+      <task_type>free_text</task_type>
+      <difficulty>2</difficulty>
+      <category>Mittelalter</category>
+      <hints>
+        <hint>Frankenreich</hint>
+        <hint>Gekrönt im Jahr 800</hint>
+      </hints>
+    </task>
+    <task>
+      <id>hist_003</id>
+      <question>Wann war die Französische Revolution?</question>
+      <answer>1789</answer>
+      <task_type>free_text</task_type>
+      <difficulty>2</difficulty>
+      <category>Neuzeit</category>
+      <hints>
+        <hint>18. Jahrhundert</hint>
+        <hint>Sturm auf die Bastille</hint>
+      </hints>
+    </task>
+    <task>
+      <id>hist_004</id>
+      <question>Wann begann der Erste Weltkrieg?</question>
+      <answer>1914</answer>
+      <task_type>free_text</task_type>
+      <difficulty>2</difficulty>
+      <category>20. Jahrhundert</category>
+      <hints>
+        <hint>Attentat von Sarajevo</hint>
+        <hint>Beginn des 20. Jahrhunderts</hint>
+      </hints>
+    </task>
+    <task>
+      <id>hist_005</id>
+      <question>Wann endete der Zweite Weltkrieg?</question>
+      <answer>1945</answer>
+      <task_type>free_text</task_type>
+      <difficulty>2</difficulty>
+      <category>20. Jahrhundert</category>
+      <hints>
+        <hint>Kapitulation Deutschlands</hint>
+        <hint>Mitte der 1940er Jahre</hint>
+      </hints>
+    </task>
+  </tasks>
+</scenario>
