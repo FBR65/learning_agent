@@ -1,6 +1,6 @@
 # Universeller Lernagent
 
-Ein kinderfreundlicher Lernassistent mit Spaced Repetition System, der Reinforcement Learning verwendet, um sich an den individuellen Lernfortschritt anzupassen.
+Ein Lernassistent mit Spaced Repetition System, der Reinforcement Learning verwendet, um sich an den individuellen Lernfortschritt anzupassen.
 
 ## 📸 Screenshots
 
